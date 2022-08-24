@@ -1,0 +1,21 @@
+From 1f8d464a286bcd8dafc5245f3c2d0540163c1c69 Mon Sep 17 00:00:00 2001
+From: danielaguilarmunoz
+ <111525510+danielaguilarmunoz@users.noreply.github.com>
+Date: Thu, 18 Aug 2022 11:51:32 -0500
+Subject: [PATCH] Create Prueba texto.txt
+
+---
+ Prueba texto.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Prueba texto.txt
+
+diff --git a/Prueba texto.txt b/Prueba texto.txt
+new file mode 100644
+index 0000000..f8a9553
+--- /dev/null
++++ b/Prueba texto.txt	
+@@ -0,0 +1 @@
++Prueba GIThub
+-- 
+2.36.0.windows.1
+
